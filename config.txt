@@ -3,7 +3,7 @@ owner = id
 
 prefix = "-"
 
-game = "-----Bag mai ceva ca DJ Dani Cotet----- -------------Use prefix |-| --------------  "
+game = " "
 
 status = ONLINE
 
