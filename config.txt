@@ -1,6 +1,5 @@
-token = OTIzMzM3MjM0NDYyMTU0NzUy.YcOizw.U7q8gKadrJ0Bd0G0zqhhDsJOHOs
-
-owner = 923337234462154752
+token = token
+owner = id
 
 prefix = "-"
 
