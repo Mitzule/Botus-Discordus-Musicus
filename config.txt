@@ -1,0 +1,65 @@
+token = OTIzMzM3MjM0NDYyMTU0NzUy.YcOizw.U7q8gKadrJ0Bd0G0zqhhDsJOHOs
+
+owner = 923337234462154752
+
+prefix = "-"
+
+game = "-----Bag mai ceva ca DJ Dani Cotet----- -------------Use prefix |-| --------------  "
+
+status = ONLINE
+
+songinstatus=false
+
+altprefix = "NONE"
+
+success = "🎶"
+warning = "💡"
+error = "🚫"
+loading = "⌚"
+searching = "🔎"
+
+help = help
+
+npimages = true
+
+stayinchannel = false
+
+maxtime = 0
+
+alonetimeuntilstop = 0
+
+playlistsfolder = "Playlists"
+
+updatealerts=true
+
+// Currently available providers: "A-Z Lyrics", "Genius", "MusicMatch", "LyricsFreak"
+lyrics.default = "A-Z Lyrics"
+
+aliases {
+  settings = [status]
+  lyrics = [l]
+  nowplaying = [np]
+  play = [p]
+  playlists = [pl]
+  queue = [q]
+  remove = [r]
+  scsearch = [scs]
+  search = [ sc]
+  shuffle = [sh]
+  skip = [s]
+  prefix = [ setprefix ]
+  setdj = []
+  settc = []
+  setvc = []
+  forceremove = [ forcedelete, modremove, moddelete ]
+  forceskip = [fs]
+  movetrack = [m]
+  pause = [pa]
+  playnext = [pn]
+  repeat = [rp]
+  skipto = [jt]
+  stop = []
+  volume = [vol]
+}
+
+eval= false
